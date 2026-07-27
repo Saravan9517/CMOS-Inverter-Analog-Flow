@@ -234,7 +234,7 @@ Energy per switching cycle was obtained through simulation, and the average powe
 
 ## Power Estimation
 
-![Power Estimation](images/09_power_calculation.png)
+![Power Estimation](images/11_pre_layout_power.png)
 
 ### Pre-layout Power
 
