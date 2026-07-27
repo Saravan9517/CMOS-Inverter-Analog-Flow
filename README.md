@@ -125,7 +125,7 @@ The physical layout was created according to the GPDK90 design rules.
 
 ## Layout
 
-![Layout](images/03_layout.png)
+![Layout](images/04_drc_result.png)
 
 ### Features
 
@@ -194,7 +194,7 @@ The extracted view was simulated using the same testbench and operating conditio
 
 ## Post-layout Transient Response
 
-![Post-layout Simulation](images/07_transient_post_layout.png)
+
 
 ### Observation
 
@@ -234,7 +234,7 @@ Energy per switching cycle was obtained through simulation, and the average powe
 
 ## Power Estimation
 
-![Power Estimation](images/09_power_calculation.png)
+![Power Estimation](images/11_pre_layout_power.png)
 
 ### Pre-layout Power
 
