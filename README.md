@@ -110,7 +110,7 @@ Transient analysis was performed on the schematic to verify the functionality of
 
 ## Pre-layout Transient Response
 
-![Pre-layout Simulation](images/02_transient_pre_layout.png)
+![Pre-layout Simulation](images/03_transient_pre_layout.png)
 
 ### Observation
 
