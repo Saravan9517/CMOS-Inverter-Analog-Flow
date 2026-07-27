@@ -125,7 +125,7 @@ The physical layout was created according to the GPDK90 design rules.
 
 ## Layout
 
-![Layout](images/03_layout.png)
+![Layout](images/04_drc_result.png)
 
 ### Features
 
