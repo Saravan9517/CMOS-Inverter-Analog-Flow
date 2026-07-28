@@ -194,6 +194,7 @@ The extracted view was simulated using the same testbench and operating conditio
 
 ## Post-layout Transient Response
 
+![Post-layout Simulation](images/07_transient_post_layout.png)
 
 
 ### Observation
