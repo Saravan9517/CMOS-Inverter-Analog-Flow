@@ -125,7 +125,7 @@ The physical layout was created according to the GPDK90 design rules.
 
 ## Layout
 
-![Layout](images/04_drc_result.png)
+![Layout](images/04_layout.png)
 
 ### Features
 
@@ -143,7 +143,7 @@ DRC was performed to verify that the layout satisfies all fabrication design rul
 
 ## DRC Result
 
-![DRC Result](images/04_drc_result.png)
+![DRC Result](images/04(1)_drc_result.png)
 
 ### Result
 
